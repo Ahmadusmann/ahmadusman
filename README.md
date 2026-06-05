@@ -1,4 +1,3 @@
-# 💫Ahout Me:
 # 💫 About Me:
 I'm Usman, a full stack developer based in Pakistan.<br><br>My main tech stack is tailwind,javascript, react, nextjs, node, express, mongodb, mysql.<br><br>I've got a bunch of projects for learning point of view.<br>
 
